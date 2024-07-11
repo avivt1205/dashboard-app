@@ -3,7 +3,7 @@ import { BsCurrencyDollar } from 'react-icons/bs';
 import { VscCircleFilled  } from "react-icons/vsc";
 import { Stacked, Pie, Button, SparkLine } from '../components';
 import { earningData, SparklineAreaData, ecomPieChartData } from '../data/dummy';
-import { useStateContext } from '../context/ContextProvider';
+import { useStateContext } from '../contexts/ContextProvider';
 
 
 const Ecommerce = () => {
