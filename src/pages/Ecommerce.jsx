@@ -1,8 +1,8 @@
 import React from 'react';
-import { BsCurrencyDollar } from 'react-icons/bs';
+//import { BsCurrencyDollar } from 'react-icons/bs';
 import { VscCircleFilled  } from "react-icons/vsc";
-import { Stacked, Pie, Button, SparkLine } from '../components';
-import { earningData, SparklineAreaData, ecomPieChartData } from '../data/dummy';
+import { Stacked, Button, SparkLine } from '../components';
+import { earningData, SparklineAreaData } from '../data/dummy';
 import { useStateContext } from '../contexts/ContextProvider';
 
 
